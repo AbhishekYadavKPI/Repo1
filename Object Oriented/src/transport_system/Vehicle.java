@@ -24,6 +24,7 @@ class Bus extends Vehicle{
 	}
 	
 }
+
 class Car extends Vehicle{
 
 	@Override
@@ -31,8 +32,12 @@ class Car extends Vehicle{
 		// TODO Auto-generated method stub
 		return 5678;
 	}
-	
+	void vehicle_type() {
+		System.out.print("Four Wheeler");
+	}
 }
+
+
 class Bike extends Vehicle{
 
 	@Override
@@ -42,4 +47,5 @@ class Bike extends Vehicle{
 	}
 	
 }
+
 

@@ -10,5 +10,11 @@ public class Transport_demo {
 		b1.reg_no();
 		c1.reg_no();
 		z1.reg_no();
+		
+		Maruti ob1 = new Maruti();
+		ob1.model();
+		ob1.vehicle_type();// Calling method from  base class Car
+		ob1.reg_no();// Calling method from super base class Vehicle
+		
 }
 }
