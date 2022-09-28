@@ -14,4 +14,22 @@
 		<item key="DIALOG_HEIGHT" value="531"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\Repository\Repo1\.git">
+			<item value="false"/>
+			<item value="AbhishekYadavKPI &lt;abhishek.yadav@kpipartners.com&gt;"/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;C"/>
+			<item value="AbhishekYadavKPI &lt;abhishek.yadav@kpipartners.com&gt;"/>
+			<item value="735f0d4b3aadd32c332d5f55dbe7c678e6ca69fd"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
 </section>
